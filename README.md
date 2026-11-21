@@ -1,6 +1,6 @@
 # Hi, I'm SK Dulal Islam, 👋 
 
-**Java Backend / Full-Stack Developer** | Final-year B.Tech IT @ JGEC | Graduating 2027
+**Java Backend / Full-Stack Developer** | Final-year B.Tech IT @ JGEC | Graduating 2027.
 
 I build secure, scalable backend systems with **Java, Spring Boot, Spring Security and PostgreSQL**, and pair them with **Next.js / React** frontends. I enjoy clean database design, reliable REST APIs and writing code that is easy to maintain.
 
